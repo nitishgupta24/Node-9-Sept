@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Saree",
+        "last_name": "Danby",
+        "email": "sdanby0@tumblr.com",
+        "gender": "Female",
+        "salary": 10000
+    },
+    {
+        "id": 2,
+        "first_name": "Dorita",
+        "last_name": "Squier",
+        "email": "dsquier1@cam.ac.uk",
+        "gender": "Female",
+        "salary": 12000
+    },
+    {
+        "id": 3,
+        "first_name": "Finn",
+        "last_name": "Cutting",
+        "email": "fcutting2@fastcompany.com",
+        "gender": "Male",
+        "salary": 15000
+    },
+    {
+        "id": 4,
+        "first_name": "Kevan",
+        "last_name": "Kidston",
+        "email": "kkidston3@live.com",
+        "gender": "Male",
+        "salary": 17000
+    },
+    {
+        "id": 5,
+        "first_name": "Dillie",
+        "last_name": "Kleimt",
+        "email": "dkleimt4@xing.com",
+        "gender": "Male",
+        "salary": 20000
+    },
+    {
+        "id": 6,
+        "first_name": "Wolfie",
+        "last_name": "Bowie",
+        "email": "wbowie5@seesaa.net",
+        "gender": "Male",
+        "salary": 23000
+    },
+    {
+        "id": 7,
+        "first_name": "Holly-anne",
+        "last_name": "Foucher",
+        "email": "hfoucher6@nytimes.com",
+        "gender": "Female",
+        "salary": 26000
+    },
+    {
+        "id": 8,
+        "first_name": "Esma",
+        "last_name": "Roughley",
+        "email": "eroughley7@wufoo.com",
+        "gender": "Female",
+        "salary": 30000
+    },
+    {
+        "id": 9,
+        "first_name": "Lauree",
+        "last_name": "Weth",
+        "email": "lweth8@wordpress.org",
+        "gender": "Female",
+        "salary": 32000
+    },
+    {
+        "id": 10,
+        "first_name": "Rudolfo",
+        "last_name": "Rutigliano",
+        "email": "rrutigliano9@cocolog-nifty.com",
+        "gender": "Male",
+        "salary": 35000
+    }
+]
